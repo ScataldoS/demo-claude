@@ -1,0 +1,8 @@
+# Secretos y archivos locales
+.env
+CLAUDE.local.md
+.claude/settings.local.json
+
+# Python
+__pycache__/
+*.pyc
